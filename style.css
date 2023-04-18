@@ -69,6 +69,7 @@ a:hover {
 
 #photo {
   float: left;
+  align: bottom;
   border-radius: 50%;
   height: 150px;
   width: 150px;
